@@ -1,0 +1,124 @@
+.body{
+    background-color: #171717;
+}
+.card-stats{
+    margin: 20px 0 20px 10px;
+    background-color: #171717;
+    border: 1px solid #505354;
+    color: white;
+    border-radius: 16px;
+}
+
+.card-category{
+    text-align: left;
+    font-size: small;
+}
+.card-title{
+    text-align: left;
+}
+.up-percentage1{
+    text-align: left;
+    color: #945db0;
+    font-size: small;
+}
+.up-percentage2{
+    text-align: left;
+    color: #438ae0;
+    font-size: small;
+}
+.up-percentage3{
+    text-align: left;
+    color: firebrick;
+    font-size: small;
+}
+.up-percentage .MuiSvgIcon-root{
+    font-size:1rem !important;
+}
+.threeDots{
+    color: white !important;
+    text-align: right;
+}
+.circular-progress-bar1,.circular-progress-bar2,.circular-progress-bar3 {
+    /*width: 70%;*/
+    /*height: 70%;*/
+    float: right;
+}
+.circular-progress-bar1 .CircularProgressbar .CircularProgressbar-path {
+    stroke: #945db0;
+}
+.circular-progress-bar2 .CircularProgressbar .CircularProgressbar-path {
+    stroke: #438ae0;
+}
+.circular-progress-bar3 .CircularProgressbar .CircularProgressbar-path {
+    stroke: firebrick;
+}
+.circular-progress-bar1 .CircularProgressbar .CircularProgressbar-text {
+    fill: #945db0;
+}
+.circular-progress-bar2 .CircularProgressbar .CircularProgressbar-text {
+    fill: #438ae0;
+}
+.circular-progress-bar3 .CircularProgressbar .CircularProgressbar-text {
+    fill: firebrick;
+}
+
+.chart-options{
+    text-align: right;
+    font-size: small;
+}
+.total-Applications{
+    padding-left: 0;
+}
+.circle {
+    display: flex;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+}
+
+.bar-name{
+    font-size: 0.75rem;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.bar-box{
+    padding-bottom: 30px;
+}
+
+/*//third row*/
+
+.up-percentage-referrals{
+    color:#438ae0;
+    font-size: small;
+}
+.class-title-referrals{
+    text-align: center;
+}
+.referrals-subheading{
+    float: right;
+}
+.campaign-red-icon .MuiSvgIcon-root{
+    color: #c42f2f;
+    float: left;
+    font-size: 2rem;
+}
+.campaign-red{
+    color: #c42f2f;
+    margin-bottom: 0;
+}
+.button1{
+    background-color:#438ae0;
+    font-size: small;
+    margin: 20px 10px 20px 0;
+    width: 42%;
+    color: white;
+}
+.button2{
+    background-color: #c42f2f;
+    font-size: small;
+    margin: 20px 10px 20px 10px;
+    width: 42%;
+    color: white;
+}
+
